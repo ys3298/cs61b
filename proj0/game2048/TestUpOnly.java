@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
  *
  * @author Omar Khan
  */
-public class TestUpOnly extends TestUtils {
+public class  TestUpOnly extends TestUtils {
 
 
     @Test
